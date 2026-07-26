@@ -4,5 +4,5 @@ Practice scripts coverig core SQL concepts using MySQL.
 **Tool:** MySQL Workbench
 
 **Files:**
-'01 - Select statement
+01 - Select statement
 
