@@ -8,5 +8,6 @@ Practice scripts covering core SQL concepts using MySQL.
 **Files:**
 
 01 - Select-Basics
+
 02 - The 'WHERE' clause
 
