@@ -11,3 +11,5 @@ Practice scripts covering core SQL concepts using MySQL.
 
 02 - The-'WHERE'-clause
 
+03 - The-'GROUP BY'-clause
+
