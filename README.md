@@ -9,7 +9,7 @@ Practice scripts covering core SQL concepts using MySQL.
 
 01 - Select-Basics
 
-02 - The-'WHERE'-clause
+02 - The-WHERE-clause
 
 03 - The-'GROUP-BY'-clause
 
