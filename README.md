@@ -14,3 +14,5 @@ Practice scripts covering core SQL concepts using MySQL.
 03 - The-'GROUP-BY'-clause
 
 04 - The-ORDER-BY-clause
+
+05 - The-HAVING-clause
