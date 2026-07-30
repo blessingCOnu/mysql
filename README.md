@@ -16,3 +16,5 @@ Practice scripts covering core SQL concepts using MySQL.
 04 - The-ORDER-BY-clause
 
 05 - The-HAVING-clause
+
+06 - Limit-&-Aliasing
